@@ -31,4 +31,4 @@ python Nict.py --help
 ```
 ![Screenshot](https://github.com/CJero/Nict/blob/master/Screenshot5.png)
 ## 最后
-在线交友~有群可以拉我一下嘛&欢迎大家反馈建议和BUG。
+欢迎大家反馈建议和BUG。
